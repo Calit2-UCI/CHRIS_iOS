@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<array>
+		<array>
+			<string>Not At All</string>
+			<string>A Little</string>
+			<string>Some</string>
+			<string>A Lot</string>
+			<string>A Whole Lot</string>
+		</array>
+		<array>
+			<string>Never</string>
+			<string>Not Very Often</string>
+			<string>Sometimes</string>
+			<string>A Lot</string>
+			<string>A Whole Lot</string>
+		</array>
+		<array>
+			<string>A Whole Lot</string>
+			<string>A Lot</string>
+			<string>Some</string>
+			<string>A Little</string>
+			<string>Very Little</string>
+		</array>
+		<array>
+			<string>Never</string>
+			<string>Not Very Often</string>
+			<string>Sometimes</string>
+			<string>A Lot of the Time</string>
+			<string>A Whole Lot of the Time</string>
+		</array>
+		<array>
+			<string>A Whole Lot</string>
+			<string>A Lot</string>
+			<string>Some</string>
+			<string>A Little</string>
+			<string>None At All</string>
+		</array>
+		<array>
+			<string>None at All</string>
+			<string>A Little</string>
+			<string>Some</string>
+			<string>A Lot</string>
+			<string>A Whole Lot</string>
+		</array>
+		<array>
+			<string>Really Happy</string>
+			<string>Pretty Happy</string>
+			<string>Happy</string>
+			<string>A Little Sad</string>
+			<string>Sad</string>
+		</array>
+		<array>
+			<string>Great</string>
+			<string>Good</string>
+			<string>OK</string>
+			<string>Not Great</string>
+			<string>Pretty Bad</string>
+		</array>
+		<array>
+			<string>A Whole Lot</string>
+			<string>A Lot</string>
+			<string>Some</string>
+			<string>A Little</string>
+			<string>Not Much At All</string>
+		</array>
+		<array>
+			<string>Very Well Controlled</string>
+			<string>Controlled</string>
+			<string>So So</string>
+			<string>Not Well Controlled</string>
+			<string>Not At All Controlled</string>
+		</array>
+	</array>
+</plist>

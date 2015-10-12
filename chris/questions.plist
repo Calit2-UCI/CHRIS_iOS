@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>General Questions</string>
+		<key>abbreviation</key>
+		<string>NA</string>
+		<key>questions</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Heavy exercise</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Medium exercise</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Light exercise</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Climbing</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Missing school</string>
+				<key>answer set</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Classroom activities</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Homework</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Housework</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Family time</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Energy for playing</string>
+				<key>answer set</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Energy after school</string>
+				<key>answer set</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Time to rest</string>
+				<key>answer set</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Paying attention</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Concentration</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Non social</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Help from friends</string>
+				<key>answer set</key>
+				<integer>5</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Pain</string>
+				<key>answer set</key>
+				<integer>6</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Anxiety</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Happiness</string>
+				<key>answer set</key>
+				<integer>7</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Daily life</string>
+				<key>answer set</key>
+				<integer>8</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Fun</string>
+				<key>answer set</key>
+				<integer>9</integer>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Asthma</string>
+		<key>abbreviation</key>
+		<string>A</string>
+		<key>questions</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Bothered by avoiding pets, dust</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Bothered by meds before play</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Bothered when can&apos;t keep up</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Hard to use inhaler</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Upset by taking meds in public</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Bothered by telling friends</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Think about asthma</string>
+				<key>answer set</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>How well controlled</string>
+				<key>answer set</key>
+				<integer>10</integer>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Diabetes</string>
+		<key>abbreviation</key>
+		<string>JOD</string>
+		<key>questions</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Worry</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Bothered by avoiding foods</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Bothered by telling friends</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>How well controlled</string>
+				<key>answer set</key>
+				<integer>10</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Bothered by insulin</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Upset by stopping for medicine</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Think about diabetes</string>
+				<key>answer set</key>
+				<integer>4</integer>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Heart Disease</string>
+		<key>abbreviation</key>
+		<string>HD</string>
+		<key>questions</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Bothered by medicine</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Bothered when play games</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Bothered by telling friends</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Thinking about disease</string>
+				<key>answer set</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>How well controlled</string>
+				<key>answer set</key>
+				<integer>10</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Worry about hospital</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Bothered when can&apos;t keep up</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Irritable Bowel Disease</string>
+		<key>abbreviation</key>
+		<string>IBD</string>
+		<key>questions</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Bothered by avoiding foods</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Bothered by bathroom</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Bothered by appearance</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Bothered by telling friends</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>How well controlled</string>
+				<key>answer set</key>
+				<integer>10</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Anxiety about attack</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Think about IBD</string>
+				<key>answer set</key>
+				<integer>4</integer>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Juvenile Rheumatoid Arthritis</string>
+		<key>abbreviation</key>
+		<string>JRA</string>
+		<key>questions</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Bothered by time to get dressed</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Bothered by exercise</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Bothered when can&apos;t keep up</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Upset by appearance</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Bothered by telling friends</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>How well controlled</string>
+				<key>answer set</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Worried about flaring</string>
+				<key>answer set</key>
+				<integer>10</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Think about JRA</string>
+				<key>answer set</key>
+				<integer>4</integer>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

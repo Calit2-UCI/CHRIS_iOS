@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<array>
+		<dict>
+			<key>name</key>
+			<string>General Questions</string>
+			<key>abbreviation</key>
+			<string>NA</string>
+			<key>questions</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Heavy exercise</string>
+					<key>answer set</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Medium exercise</string>
+					<key>answer set</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Asthma</string>
+			<key>abbreviation</key>
+			<string>A</string>
+			<key>questions</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Bothered by avoiding pets, dust</string>
+					<key>answer set</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Bothered by meds before play</string>
+					<key>answer set</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diabetes</string>
+			<key>abbreviation</key>
+			<string>JOD</string>
+			<key>questions</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Worry</string>
+					<key>answer set</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Bothered by avoiding foods</string>
+					<key>answer set</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Heart Disease</string>
+			<key>abbreviation</key>
+			<string>HD</string>
+			<key>questions</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Bothered by medicine</string>
+					<key>answer set</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Bothered when play games</string>
+					<key>answer set</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Irritable Bowel Disease</string>
+			<key>abbreviation</key>
+			<string>IBD</string>
+			<key>questions</key>
+			<array>
+
+				<dict>
+					<key>name</key>
+					<string>Bothered by avoiding foods</string>
+					<key>answer set</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Bothered by bathroom</string>
+					<key>answer set</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Juvenile Rheumatoid Arthritis</string>
+			<key>abbreviation</key>
+			<string>JRA</string>
+			<key>questions</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Bothered by time to get dressed</string>
+					<key>answer set</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Bothered by exercise</string>
+					<key>answer set</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</plist>
